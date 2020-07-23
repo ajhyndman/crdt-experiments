@@ -9,5 +9,9 @@
   "dependencies": {
     "changeset": "0.2.4",
     "yjs": "13.3.0"
+  },
+  "devDependencies": {
+    "jest": "26.1.0",
+    "typescript": "3.9.7"
   }
 }
