@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
-    "target": "es2015",
-    "module": "esnext"
+    "target": "ES2015",
+    "module": "ESNext",
+    "moduleResolution":"Node",
+    "esModuleInterop": true
   },
   "include": ["src/**/*.ts"]
 }
